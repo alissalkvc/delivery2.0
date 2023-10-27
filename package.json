@@ -1,5 +1,5 @@
 {
-  "name": "ups-app",
+  "name": "delivery-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -26,7 +26,8 @@
     "react-native-screens": "~3.22.0",
     "react-native-vector-icons": "^10.0.1",
     "react-native-web": "^0.19.9",
-    "tailwind-rn": "^4.2.0"
+    "tailwind-rn": "^4.2.0",
+    "react-native-maps": "1.7.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

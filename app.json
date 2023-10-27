@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ups-app",
-    "slug": "ups-app",
+    "name": "delivery-app",
+    "slug": "delivery-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
